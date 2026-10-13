@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://virling.com">Website</a> · <a href="https://virling.com/agency">For agencies</a>
+  <a href="https://virling.com">Website</a> · <a href="https://github.com/virling/virling">Source code</a> · <a href="https://virling.com/agency">For agencies</a>
 </p>
 
 ---
@@ -21,6 +21,6 @@ Virling joins every visit to the payment that followed, so founders can see whic
 - Tracking script under 5 KB. Visitor IPs are never stored.
 - AGPL-3.0, free to self-host. A hosted version is coming.
 
-We're building in public. Join the waitlist at [virling.com](https://virling.com).
+We're building in public. Star [virling/virling](https://github.com/virling/virling) and join the waitlist at [virling.com](https://virling.com).
 
 Built by [Stacklance Infotech LLP](https://stacklance.in).
